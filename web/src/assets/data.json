@@ -18,14 +18,14 @@
         {
           "id": 2,
           "question": "Milline on ahela kogutakistus: R1=R4=3Ω, R2=R3=4Ω",
-          "image": "/assets/v1q2.png",
+          "image": "/src/assets/v1q2.png",
           "options": null,
           "correctAnswer": null
         },
         {
           "id": 3,
           "question": "Milline voltmeeter näitab kõige väiksemat pinget?",
-          "image": "/assets/v1q3.png",
+          "image": "/src/assets/v1q3.png",
           "options": {
             "A": "V1",
             "B": "V2",
@@ -67,7 +67,7 @@
         {
           "id": 7,
           "question": "Mille tingmärk on?",
-          "image": "/assets/v1q7.png",
+          "image": "/src/assets/v1q7.png",
           "options": {
             "A": "Võimendi",
             "B": "Vedeliku tase",
@@ -199,7 +199,7 @@
         {
           "id": 19,
           "question": "Kus pildil asub loogiline tehe „VÕI“?",
-          "image": "/assets/v1q19.png",
+          "image": "/src/assets/v1q19.png",
           "options": null,
           "correctAnswer": null
         },
@@ -251,7 +251,7 @@
         {
           "id": 24,
           "question": "Millist alalisvoolumootorit ei saa lülitada ahelasse ilma koormuseta (tühikäigus)?",
-          "image": "/assets/v1q24.png",
+          "image": "/src/assets/v1q24.png",
           "options": {
             "A": "Mootor, millel on segatud ergutusmähis",
             "B": "Mootor, millel on paralleelne ergutusmähis",
@@ -307,7 +307,7 @@
         {
           "id": 29,
           "question": "Milline voltmeeter näitab suurimat pinget?",
-          "image": "/assets/v1q29.png",
+          "image": "/src/assets/v1q29.png",
           "options": {
             "A": "V1",
             "B": "V2",

@@ -37,6 +37,10 @@ export function Quiz() {
 
                             <h3 className={styles.questionText}>{question.question}</h3>
 
+                            {question.image && (
+                                <img src={question.image} alt="question" />
+                            )}
+
                             <div className={styles.optionsList}>
                                 {question.options ? (
                                     Object.entries(question.options).map(([key, value]) => (
@@ -46,7 +50,7 @@ export function Quiz() {
                                         </div>
                                     ))
                                 ) : (
-                                    <div className={styles.noOptions}>
+                                    <div className={styles.noOqptions}>
                                         У этого вопроса нет вариантов ответа
                                     </div>
                                 )}
