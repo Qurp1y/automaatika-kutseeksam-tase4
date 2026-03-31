@@ -1,7 +1,3 @@
-export function QuizUtils () {
-
-}
-
 function shuffleArray(array) {
     const arr = [...array];
 
@@ -15,14 +11,11 @@ function shuffleArray(array) {
 
 export function mixSameIdQuestions(data) {
     const result = [];
-
     const variants = data.variants;
-
-    // предполагаем что в каждом варианте одинаковое количество вопросов
     const totalQuestions = variants[0].questions.length;
 
     for (let i = 0; i < totalQuestions; i++) {
-        let sameIdGroup = [];
+        const sameIdGroup = [];
 
         for (const variant of variants) {
             sameIdGroup.push({
@@ -31,11 +24,8 @@ export function mixSameIdQuestions(data) {
             });
         }
 
-        // перемешиваем вопросы с одинаковым id
-        sameIdGroup = shuffleArray(sameIdGroup);
-
-        // добавляем в общий массив
-        result.push(...sameIdGroup);
+        const shuffled = shuffleArray(sameIdGroup);
+        result.push(shuffled[0]);
     }
 
     return result;
