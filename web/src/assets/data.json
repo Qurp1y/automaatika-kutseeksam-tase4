@@ -18,14 +18,14 @@
         {
           "id": 2,
           "question": "Milline on ahela kogutakistus: R1=R4=3Ω, R2=R3=4Ω",
-          "image": "/src/assets/v1q2.png",
+          "image": "./assets/v1q2.png",
           "options": null,
           "correctAnswer": null
         },
         {
           "id": 3,
           "question": "Milline voltmeeter näitab kõige väiksemat pinget?",
-          "image": "/src/assets/v1q3.png",
+          "image": "./assets/v1q3.png",
           "options": {
             "A": "V1",
             "B": "V2",
@@ -67,7 +67,7 @@
         {
           "id": 7,
           "question": "Mille tingmärk on?",
-          "image": "/src/assets/v1q7.png",
+          "image": "./assets/v1q7.png",
           "options": {
             "A": "Võimendi",
             "B": "Vedeliku tase",
@@ -199,7 +199,7 @@
         {
           "id": 19,
           "question": "Kus pildil asub loogiline tehe „VÕI“?",
-          "image": "/src/assets/v1q19.png",
+          "image": "./assets/v1q19.png",
           "options": {
             "A": "A",
             "B": "B",
@@ -257,7 +257,7 @@
         {
           "id": 24,
           "question": "Millist alalisvoolumootorit ei saa lülitada ahelasse ilma koormuseta (tühikäigus)?",
-          "image": "/src/assets/v1q24.png",
+          "image": "./assets/v1q24.png",
           "options": {
             "A": "Mootor, millel on segatud ergutusmähis",
             "B": "Mootor, millel on paralleelne ergutusmähis",
@@ -313,7 +313,7 @@
         {
           "id": 29,
           "question": "Milline voltmeeter näitab suurimat pinget?",
-          "image": "/src/assets/v1q29.png",
+          "image": "./assets/v1q29.png",
           "options": {
             "A": "V1",
             "B": "V2",
@@ -340,7 +340,7 @@
         {
           "id": 1,
           "question": "Milline on ahela kogutakistus: R1=R2=R3=18Ω",
-          "image": "/src/assets/v2q1.png",
+          "image": "./assets/v2q1.png",
           "options": {
             "A": "9Ω",
             "B": "6Ω",
@@ -403,7 +403,7 @@
         {
           "id": 7,
           "question": "Kus on n-p-n transistor?",
-          "image": "/src/assets/v2q7.png",
+          "image": "./assets/v2q7.png",
           "options": {
             "A": "A",
             "B": "B",
@@ -448,7 +448,7 @@
         {
           "id": 11,
           "question": "Inertsel lülil (ahi, mootor) siirdekarakteristik on:",
-          "image": "/src/assets/v2q11.png",
+          "image": "./assets/v2q11.png",
           "options": null,
           "correctAnswer": null
         },
@@ -465,7 +465,7 @@
         {
           "id": 13,
           "question": "Võimendi on haaratud negatiivse tagasisidega. Kui ühendada omavahel punktid 1 ja 2, siis võimendustegur:",
-          "image": "/src/assets/v2q13.png",
+          "image": "./assets/v2q13.png",
           "options": {
             "A": "suureneb",
             "B": "väheneb",
@@ -476,7 +476,7 @@
         {
           "id": 14,
           "question": "Joonisel on toodud siirdekarakteristik mis vastab tüüplülile",
-          "image": "/src/assets/v2q14.png",
+          "image": "./assets/v2q14.png",
           "options": {
             "A": "proportsionaalne lüli",
             "B": "inertne lüli",
@@ -489,7 +489,7 @@
         {
           "id": 15,
           "question": "Silindri poolt arendatav jõud sõltub:",
-          "image": "/src/assets/v2q15.png",
+          "image": "./assets/v2q15.png",
           "options": {
             "A": "silindri läbimõõdust",
             "B": "silindri pikkusest",
@@ -554,7 +554,7 @@
         {
           "id": 21,
           "question": "Kus pildi peal on loogikaoperatsioon „AND“?",
-          "image": "/src/assets/v2q21.png",
+          "image": "./assets/v2q21.png",
           "options": null,
           "correctAnswer": null
         },
@@ -773,7 +773,7 @@
         {
           "id": 12,
           "question": "Milline ampermeeter näitab väikseimat voolu?",
-          "image": "/src/assets/v3q12.png",
+          "image": "./assets/v3q12.png",
           "options": {
             "A": "A1",
             "B": "A2",
@@ -846,7 +846,7 @@
         {
           "id": 19,
           "question": "RC ahelas vool I:",
-          "image": "/src/assets/v3q19.png",
+          "image": "./assets/v3q19.png",
           "options": {
             "A": "Jääb maha pingest U",
             "B": "On ees pingest U",
@@ -901,7 +901,7 @@
         {
           "id": 24,
           "question": "Joonista mootori ühendusskeem tähtühenduses",
-          "image": "/src/assets/v3q24.png",
+          "image": "./assets/v3q24.png",
           "options": null,
           "correctAnswer": null
         },
@@ -950,7 +950,7 @@
         {
           "id": 29,
           "question": "Signaali 1.4 toimel silinder:",
-          "image": "/src/assets/v3q29.png",
+          "image": "./assets/v3q29.png",
           "options": {
             "A": "Liigub välja",
             "B": "Liigub sisse",
@@ -961,7 +961,7 @@
         {
           "id": 30,
           "question": "Mis tähis see on?",
-          "image": "/src/assets/v3q30.png",
+          "image": "./assets/v3q30.png",
           "options": {
             "A": "Relee",
             "B": "Kontaktor",
@@ -977,7 +977,7 @@
         {
           "id": 1,
           "question": "Millisele seadmele vastab antud tähis?",
-          "image": "/src/assets/v4q1.png",
+          "image": "./assets/v4q1.png",
           "options": {
             "A": "Lüliti",
             "B": "Induktiivandur",
@@ -990,7 +990,7 @@
         {
           "id": 2,
           "question": "Millisele seadmele vastab antud tähis?",
-          "image": "/src/assets/v4q2.png",
+          "image": "./assets/v4q2.png",
           "options": {
             "A": "Lüliti",
             "B": "Induktiivandur",
@@ -1003,7 +1003,7 @@
         {
           "id": 3,
           "question": "Millisele seadmele vastab antud tähis?",
-          "image": "/src/assets/v4q3.png",
+          "image": "./assets/v4q3.png",
           "options": {
             "A": "Lüliti",
             "B": "Induktiivandur",
@@ -1069,14 +1069,14 @@
         {
           "id": 9,
           "question": "Milline reguleerimisprotsessidest on stabiilne?",
-          "image": "/src/assets/v4q9.png",
+          "image": "./assets/v4q9.png",
           "options": null,
           "correctAnswer": null
         },
         {
           "id": 10,
           "question": "Jadamisi ühendatud elementide ülekandetegur?",
-          "image": "/src/assets/v4q10.png",
+          "image": "./assets/v4q10.png",
           "options": {
             "A": "KÜ = K1 · K2",
             "B": "KÜ = K1 + K2",
@@ -1110,7 +1110,7 @@
         {
           "id": 13,
           "question": "Silla tasakaalu olek määratakse valemiga:",
-          "image": "/src/assets/v4q13.png",
+          "image": "./assets/v4q13.png",
           "options": {
             "A": "R1 · R2 = R3 · R4",
             "B": "R2 · R3 = R2 · R4",
@@ -1123,7 +1123,7 @@
         {
           "id": 14,
           "question": "Antud on loogikaskeem:",
-          "image": "/src/assets/v4q14.png",
+          "image": "./assets/v4q14.png",
           "options": {
             "A": "(X1+X2)•(X3+X4) = Y",
             "B": "(X1+X2)•X3•X4 = Y",
@@ -1167,7 +1167,7 @@
         {
           "id": 18,
           "question": "Millisel takistil hajub suurim võimsus?",
-          "image": "/src/assets/v4q18.png",
+          "image": "./assets/v4q18.png",
           "options": {
             "A": "R1",
             "B": "R2",
@@ -1190,7 +1190,7 @@
         {
           "id": 20,
           "question": "Joonistage mootori kolmnurkühenduse skeem",
-          "image": "/src/assets/v4q20.png",
+          "image": "./assets/v4q20.png",
           "options": null,
           "correctAnswer": null
         },
@@ -1207,7 +1207,7 @@
         {
           "id": 22,
           "question": "Missugune siirdekarakteristik vastab isereguleerimisega objektile",
-          "image": "/src/assets/v4q22.png",
+          "image": "./assets/v4q22.png",
           "options": null,
           "correctAnswer": null
         },
@@ -1235,7 +1235,7 @@
         {
           "id": 25,
           "question": "Püsivalt ahelat läbib vool I:",
-          "image": "/src/assets/v4q25.png",
+          "image": "./assets/v4q25.png",
           "options": {
             "A": "I = 0,5A",
             "B": "I = 1A",
@@ -1247,7 +1247,7 @@
         {
           "id": 26,
           "question": "Püsivalt ahelat läbib vool I:",
-          "image": "/src/assets/v4q26.png",
+          "image": "./assets/v4q26.png",
           "options": {
             "A": "I = 0,5A",
             "B": "I = 1A",
@@ -1259,7 +1259,7 @@
         {
           "id": 27,
           "question": "Rööbiti lülitatud elementide ülekandetegur?",
-          "image": "/src/assets/v4q27.png",
+          "image": "./assets/v4q27.png",
           "options": {
             "A": "KÜ = K1 · K2",
             "B": "KÜ = K1 + K2",
@@ -1322,7 +1322,7 @@
         {
           "id": 2,
           "question": "Millisele loogikaskeemile vastab releeskeem?",
-          "image": "/src/assets/v5q2.png",
+          "image": "./assets/v5q2.png",
           "options": {
             "A": "VÕI",
             "B": "JA",
@@ -1370,14 +1370,14 @@
         {
           "id": 7,
           "question": "EK = 10 V, h21E = β = 100, UK = 5 V, RK = 0,5 kΩ. Leida IK ja IB.",
-          "image": "/src/assets/v5q7.png",
+          "image": "./assets/v5q7.png",
           "options": null,
           "correctAnswer": "IK = 10 mA, IB = 0.1 mA"
         },
         {
           "id": 8,
           "question": "Kuidas nimetatakse sellel joonisel kujutatud loogikafunktsiooni elementi?",
-          "image": "/src/assets/v5q8.png",
+          "image": "./assets/v5q8.png",
           "options": {
             "A": "Juhuslike impulsside generaator",
             "B": "Trepivalgustuse lüliti",
@@ -1400,7 +1400,7 @@
         {
           "id": 10,
           "question": "US = 100 V, R = 0,1 kΩ. US võib muuta oma polaarsust. Kuidas valida diood?",
-          "image": "/src/assets/v5q10.png",
+          "image": "./assets/v5q10.png",
           "options": null,
           "correctAnswer": "Valida diood, mille vastupinge on üle 100 V ja lubatud vool üle 1 A"
         },
@@ -1435,7 +1435,7 @@
         {
           "id": 14,
           "question": "Kui temperatuur suureneb, siis vool I läbi termistori:",
-          "image": "/src/assets/v5q14.png",
+          "image": "./assets/v5q14.png",
           "options": {
             "A": "suureneb",
             "B": "väheneb",
@@ -1447,7 +1447,7 @@
         {
           "id": 15,
           "question": "Saatja S ja vastuvõtja V on ühendatud liiniga. Kui andmete edastuskiirust on vaja tunduvalt suurendada siis:",
-          "image": "/src/assets/v5q15.png",
+          "image": "./assets/v5q15.png",
           "options": {
             "A": "Liinipikkust on vaja suurendada",
             "B": "Liinipikkust on vaja vähendada",
@@ -1516,7 +1516,7 @@
         {
           "id": 21,
           "question": "Graafikul on näidatud temperatuuri reguleerimisprotsess. Sellist protsessi teostab:",
-          "image": "/src/assets/v5q21.png",
+          "image": "./assets/v5q21.png",
           "options": {
             "A": "I – regulaator",
             "B": "P -regulaator",
@@ -1554,7 +1554,7 @@
         {
           "id": 25,
           "question": "Kollektori ahelasse on lülitatud relee K. Kollektoril tekib ülepinge, mis võib VT läbilüüa:",
-          "image": "/src/assets/v5q25.png",
+          "image": "./assets/v5q25.png",
           "options": {
             "A": "transistori avamisel",
             "B": "transistori sulgemisel",
